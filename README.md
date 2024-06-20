@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baiokis&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bs&layout=compact)
 
 
 - 🔭 I’m currently working on Autvix
