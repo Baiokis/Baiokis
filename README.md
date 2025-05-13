@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/alexandre-baiocco-432b261aa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
-
-- ✉ E-mail para contato: [alexandrebaiocco1@gmail.com](mailto:alexandrebaiocco1@gmail.com)
-
 ---
 
 <div align="center">
